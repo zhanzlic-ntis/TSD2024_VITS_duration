@@ -1,1 +1,1 @@
-# TSD2024_VITS_duration
+# TSD 2024 - Data Alignment and Duration Modelling in VITS
